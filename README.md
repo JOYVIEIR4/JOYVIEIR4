@@ -27,7 +27,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecn
 ---
 
 ## **Como me encontrar**
-- [LinkedIn](https://www.linkedin.com/in/SEU-USUÁRIO)  
+- [LinkedIn](https://www.linkedin.com/in/joicevieir/ 
 - [GitHub](https://github.com/JOYVIER4)  
 - Email profissional: joicevieirab@hotmail.com
 
