@@ -1,6 +1,6 @@
 # Olá, eu sou a JOYVIER4!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, aprendizado constante e construção de soluções práticas. Tenho foco em **desenvolvimento front-end**, com especial interesse por **HTML, CSS e JavaScript**. Atualmente, também estou explorando áreas como **Segurança da Informação** e **Inteligência Ar
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, aprendizado constante e construção de soluções práticas. Tenho foco em **desenvolvimento front-end**, com especial interesse por **HTML, CSS e JavaScript**. Atualmente, também estou explorando áreas como **Segurança da Informação** e **Inteligência Artificial
 
 ---
 
