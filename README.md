@@ -26,9 +26,9 @@ Atuar como desenvolvedora com propósito e clareza, sempre buscando aplicar meus
 - 📚 Lógica de Programação (VisuAlg com curso em video)  
 
 <p aling="center">
-  <a img src="https://github.com/JOYVIEIR/JOYVIEIR4/blob/main/img/html.svg?raw=true) alt="icone HTML" width="100" </a>
-  <a img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/img/css.svg?raw=true) alt="icone CSS" width="100" </a>
-  <a img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/img/js.svg?raw=tue) alt="icone JS" width="100" </a>
+  <img src="https://github.com/JOYVIEIR/JOYVIEIR4/blob/main/img/html.svg?raw=true) alt="icone HTML" width="100" />
+  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/img/css.svg?raw=true) alt="icone CSS" width="100" />
+  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/img/js.svg?raw=tue) alt="icone JS" width="100" />
 </p>  
 
 ---
