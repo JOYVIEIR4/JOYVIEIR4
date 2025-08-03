@@ -1,5 +1,5 @@
 <!-- Capa -->
-<p align="center">
+<p align="center"
   <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/minha-capa.jpg?raw=true) alt="Vieira logo dourado" width="100%" height="350" />
 </p>
 
@@ -25,6 +25,12 @@ Atuar como desenvolvedora com propósito e clareza, sempre buscando aplicar meus
 - 🎨 UI/UX (iniciante com sensibilidade estética e prática)  
 - 📚 Lógica de Programação (VisuAlg com curso em video)  
 
+<p aling="center">
+  <a img src="https://github.com/JOYVIEIR/JOYVIEIR4/blob/main/img/html.svg?raw=true) alt="icone HTML" width="100" </a>
+  <a img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/img/css.svg?raw=true) alt="icone CSS" width="100" </a>
+  <a img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/img/js.svg?raw=tue) alt="icone JS" width="100" </a>
+</p>  
+
 ---
 
 ### 💡 Projetos em destaque
@@ -36,8 +42,8 @@ Atuar como desenvolvedora com propósito e clareza, sempre buscando aplicar meus
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joy-vieira/">🔗 LinkedIn</a> • 
-  <a href="https://github.com/JOVIEIRA4">💻 GitHub</a> • 
+  <a href="https://www.linkedin.com/in/joicevieir/">🔗 LinkedIn</a> • 
+  <a href="https://github.com/JOVIEIR4">💻 GitHub</a> • 
   <a href="joicevieirab@hotmail.com">📩 E-mail</a>
 </p>
 
