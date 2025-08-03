@@ -1,20 +1,46 @@
-# Olá, eu sou a JOYVIER4!
+<!-- Capa -->
+<p align="center">
+  <img src="https://link-da-sua-imagem-aqui" alt="Vieira logo dourado" width="150" />
+</p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, aprendizado constante e construção de soluções práticas. Tenho foco em **desenvolvimento front-end**, com especial interesse por **HTML, CSS e JavaScript**. Atualmente, também estou explorando áreas como **Segurança da Informação** e **Inteligência Artificial
+### 👩‍💻 Sobre mim
+
+Sou uma Desenvolvedora em transição de carreira, apaixonada por tecnologia, design e soluções criativas.  
+Tenho formação na área da saúde, e hoje mergulho de cabeça no mundo da programação com foco no Front-End, estudando de forma estruturada e prática.
+
+Atualmente curso *Análise e Desenvolvimento de Sistemas* e participo de programas como o *Desenvolve Boticário*, unindo prática, teoria e evolução contínua.
+
+---
+
+### 🎯 Objetivo
+
+Atuar como desenvolvedora com propósito e clareza, sempre buscando aplicar meus conhecimentos em projetos reais, colaborando com pessoas que compartilham visão de crescimento, autonomia e impacto positivo através da tecnologia.
 
 ---
 
-## **O que estou estudando agora**
-- Desenvolvimento de projetos práticos com **HTML e CSS**
-- Organização do **GitHub** e do meu **portfólio online**
+### 🚀 Tecnologias e Aprendizados
+
+- 🌐 HTML, CSS, JavaScript, React, Java.
+- 📁 Git e GitHub  
+- 🎨 UI/UX (iniciante com sensibilidade estética e prática)  
+- 📚 Lógica de Programação (VisuAlg com curso em video)  
 
 ---
 
-## **Como me encontrar**
-- [LinkedIn](https://www.linkedin.com/in/joicevieir/ 
-- [GitHub](https://github.com/JOYVIER4)  
-- Email profissional: joicevieirab@hotmail.com
+### 💡 Projetos em destaque
+
+| Projeto | Descrição |
+|--------|-----------|
+| *Portfolio Joy Vieira* | Página pessoal responsiva com HTML, CSS e JS apresentando minha trajetória |
 
 ---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joy-vieira/">🔗 LinkedIn</a> • 
+  <a href="https://github.com/JOVIEIRA4">💻 GitHub</a> • 
+  <a href="joicevieirab@hotmail.com">📩 E-mail</a>
+</p>
+
+
 
 > *"Em constante evolução. Cada linha de código carrega minha determinação."*
