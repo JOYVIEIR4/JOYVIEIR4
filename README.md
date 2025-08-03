@@ -41,13 +41,16 @@ Atuar como desenvolvedora com propósito e clareza, sempre buscando aplicar meus
 
 ---
 
+<p>
+  <a> Em constante evolução. Cada linha de código carrega minha determinação.</a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/joicevieir/">🔗 LinkedIn</a> • 
   <a href="https://github.com/JOVIEIR4">💻 GitHub</a> • 
   <a href="joicevieirab@hotmail.com">📩 E-mail</a>
 </p>
 
-
-<p aling="center">
-  <a> Em constante evolução. Cada linha de código carrega minha determinação.</a>
-</p>
+---
