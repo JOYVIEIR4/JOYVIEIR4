@@ -1,6 +1,6 @@
 <!-- Capa -->
 <p align="center">
-  <img src="https://link-da-sua-imagem-aqui" alt="Vieira logo dourado" width="150" />
+  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/minha-capa.JPG?raw=true) alt="Vieira logo dourado" width="150" />
 </p>
 
 ### 👩‍💻 Sobre mim
