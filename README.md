@@ -26,9 +26,9 @@ Atuar como desenvolvedora com propósito e clareza, sempre buscando aplicar meus
 - 📚 Lógica de Programação (VisuAlg com curso em video)  
 
 <p aling="center">
-  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/html.svg?raw=true) alt="icone HTML" width="100" />
-  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/css.svg?raw=true) alt="icone CSS" width="100" />
-  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/js.svg?raw=tue) alt="icone JS" width="100" />
+  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/html.svg?raw=true) alt="icone HTML" width="50" />
+  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/css.svg?raw=true) alt="icone CSS" width="50" />
+  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/js.svg?raw=tue) alt="icone JS" width="50" />
 </p>  
 
 ---
@@ -48,5 +48,6 @@ Atuar como desenvolvedora com propósito e clareza, sempre buscando aplicar meus
 </p>
 
 
-
-> *"Em constante evolução. Cada linha de código carrega minha determinação."*
+<p aling="center">
+  <a *"Em constante evolução. Cada linha de código carrega minha determinação."* </a>
+</p>
