@@ -49,5 +49,5 @@ Atuar como desenvolvedora com propósito e clareza, sempre buscando aplicar meus
 
 
 <p aling="center">
-  <a *"Em constante evolução. Cada linha de código carrega minha determinação."* </a>
+  <a> Em constante evolução. Cada linha de código carrega minha determinação.</a>
 </p>
