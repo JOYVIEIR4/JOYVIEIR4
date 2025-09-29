@@ -1,0 +1,347 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyP/557bWxYKNqokw7k0mIbV",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/JOYVIEIR4/JOYVIEIR4/blob/main/Condi%C3%A7%C3%B5es_if%2Celse_EmPython\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "ZXUmWFW02Vq8",
+        "outputId": "65a59d86-ff61-4fbd-ccd5-410d9d0373a7"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Escolha um numero de 0 á 5: 1\n",
+            "Você venceu!\n"
+          ]
+        }
+      ],
+      "source": [
+        "#Escreva um programa que faça o computador \"pensar\" em um numero inteiro de 0 e\n",
+        "#5 e peça para o usuario tentar descobrir qual foi o numero escolhido pelo\n",
+        "#comoutador. O programa devera escrever na tela se o usuario venceu ou perdeu.\n",
+        "\n",
+        "#SORTEIO\n",
+        "\n",
+        "import random\n",
+        "\n",
+        "sorteio = [0, 1, 2, 3, 4, 5]\n",
+        "numero_sorteado = random.choice(sorteio)\n",
+        "numero = int(input(\"Escolha um numero de 0 a 5: \"))\n",
+        "\n",
+        "if numero == numero_sorteado:\n",
+        "    print(\"Você venceu!\")\n",
+        "else:\n",
+        "    print(\"O computador venceu!\")"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Escreva um programa que leia a velocidade de um carro.\n",
+        "#Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado.\n",
+        "#A multa vai custar R$7,00 por cada km acima do limite.\n",
+        "\n",
+        "#RADAR ELETRONICO\n",
+        "\n",
+        "velocidade = float(input(\"Qual a atual velocidade do carro? \"))\n",
+        "\n",
+        "multa = (velocidade - 80) * 7.00\n",
+        "\n",
+        "if velocidade > 80:\n",
+        "    print(f\"Voce excedeu o limite de 80Km/h, o valor da multa é R${multa:.2f}\")\n",
+        "\n",
+        "else:\n",
+        "    print(\"Voce está dentro do limite!\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "MXplKg-A4g5c",
+        "outputId": "f4055e6e-acf6-457e-e69f-b801af73e8a4"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Qual a atual velocidade do carro? 100\n",
+            "Voce excedeu o limite de 80Km/h, o valor da multa é R$140.00\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Crie um programa que leia um número inteiro e mostre na tela se ele é par ou\n",
+        "#impar\n",
+        "\n",
+        "numero = int(input(\"Digite um numero inteiro: \"))\n",
+        "if numero % 2 == 0:\n",
+        "    print(\"O numero é par\")\n",
+        "else:\n",
+        "    print(\"O numero é impar\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "k8us_6OG73Yk",
+        "outputId": "009574fd-4f9a-4741-a2c1-995ae5e7317b"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Digite um numero inteiro: 9\n",
+            "O numero é impar\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Desenvolva um programa que pergunte a distancia de uma viagem em Km.\n",
+        "#Calcule o preço da passagem, conbrando R$0,50 por Km para viagens de até 200Km\n",
+        "#e R$0,45 para viagens mais longas.\n",
+        "\n",
+        "#CUSTO DA PASSAGEM\n",
+        "\n",
+        "distancia = float(input(\"Qual a distancia da sua viagem? \"))\n",
+        "print(f\"Voce está prestes a começar uma viagem de: {distancia}Km\")\n",
+        "\n",
+        "if distancia <= 200:\n",
+        "    valor = distancia * 0.50\n",
+        "    print(f\"O valor da passagem é de R${valor:.2f}\")\n",
+        "\n",
+        "else:\n",
+        "    valor = distancia * 0.45\n",
+        "    print(f\"O valor da passagem será: R${valor:.2f}\")\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "zPK_KmCI8xhy",
+        "outputId": "e5012ac7-51df-4199-9e57-935a3b18944b"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Qual a distancia da sua viagem? 1000\n",
+            "Voce está prestes a começar uma viagem de: 1000.0Km\n",
+            "O valor da passagem será: R$450.00\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Faça um programa que leia um ano qualquer e mostre se ele é BISSEXTO.\n",
+        "\n",
+        "#ANO BISSEXTO\n",
+        "\n",
+        "ano  = int(input(\"Digite o ano que deseja analisar: \"))\n",
+        "\n",
+        "if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:\n",
+        "  print(f\"O ano {ano} é BISSEXTO\")\n",
+        "\n",
+        "else:\n",
+        "  print(f\"O ano {ano} não é BISSEXTO\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "IpSTHWiaAgd8",
+        "outputId": "f20f02df-74ec-4a38-b634-eca690fe8aa6"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Digite o ano que deseja analisa: 2024\n",
+            "O ano 2024 é BISSEXTO\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Faça um programa que leia tres numeros e mostre qual é o maior e qual é o menor\n",
+        "\n",
+        "#MAIOR E MENOR\n",
+        "\n",
+        "numero1 = int(input(\"Digite o primeiro numero: \"))\n",
+        "numero2 = int(input(\"Digite o segundo numero: \"))\n",
+        "numero3 = int(input(\"Digite o terceiro numero: \"))\n",
+        "\n",
+        "if numero1 > numero2 and numero1 > numero3:\n",
+        "  print(\"O primeiro numero é o maior\")\n",
+        "\n",
+        "else:\n",
+        "  print(\"O terceiro numero é o maior\")\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "_eSWG5GRG7ak",
+        "outputId": "6fbac7c3-4c26-45dc-9fce-15a1373cb651"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Digite o primeiro numero: 20\n",
+            "Digite o segundo numero: 5\n",
+            "Digite o terceiro numero: 3\n",
+            "O primeiro numero é o maior\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Escreva um programa que pergunta o salario de um funcionario e calcule o valor\n",
+        "#do seu aumento. Para salarios superiores a R$1.250,00 calcule um aumento de 10%\n",
+        "#Para os inferiores ou iguais, o aumento é de 15%\n",
+        "\n",
+        "salario = float(input(\"Informe o seu salário: \"))\n",
+        "\n",
+        "if salario > 1250:\n",
+        "  aumento = (salario * 10) / 100\n",
+        "  print(f\"O seu novo salário é de R${salario + aumento:.2f}\")\n",
+        "\n",
+        "else:\n",
+        "  aumento = (salario * 15) / 100\n",
+        "  print(f\"O seu novo salário é de R${salario + aumento:.2f}\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "FJqvBo2FJa9v",
+        "outputId": "b0d24a78-5063-494a-e7ac-b64e09b9c888"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Informe o seu salário: 5000\n",
+            "O seu novo salário é de R$5500.00\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Desenvolva um programa que leia o comprimento de tres retas e diga ao usuario\n",
+        "#se elas podem ou nao formar um triangulo.\n",
+        "\n",
+        "reta1 = float(input(\"Digite o comprimento da primeira reta: \"))\n",
+        "reta2 = float(input(\"Digite o comprimento da segunda reta: \"))\n",
+        "reta3 = float(input(\"Digite o comprimento da terceira reta: \"))\n",
+        "if reta1 + reta2 > reta3 and reta1 + reta3 > reta2 and reta2 + reta3 > reta1:\n",
+        "  print(\"Os segmentos podem formar um triangulo\")\n",
+        "else:\n",
+        "  print(\"Os segmentos não podem formar um triangulo\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "wWRDQHfaMYsa",
+        "outputId": "127273cf-596d-41cd-d33c-5b1ada7aa6a7"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Digite o comprimento da primeira reta: 5\n",
+            "Digite o comprimento da segunda reta: 5\n",
+            "Digite o comprimento da terceira reta: 5\n",
+            "As retas podem formar um triangulo\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Cores em terminal\n",
+        "\n",
+        "print(\"\\033[7;30;43mOlá Mundo!\\033[m\")\n",
+        "#"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "-EpSPeyCYvT5",
+        "outputId": "0e931f81-9b45-4f6e-9e4f-d86ef1d9c9f7"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "\u001b[7;30;43mOlá Mundo!\u001b[m\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
