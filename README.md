@@ -1,4 +1,4 @@
-# Olá, eu sou Joy Vieira 👋
+# Olá, eu sou Joy Vieira 
 
 Desenvolvedora em formação com foco em desenvolvimento de software e construção de APIs.
 
@@ -19,7 +19,7 @@ Busco evoluir constantemente através da prática, construção de projetos e re
 
 ---
 
-## 🧠 Experiência prática
+##  Experiência prática
 
 **Residência Tecnológica em Desenvolvimento Back-End**
 
