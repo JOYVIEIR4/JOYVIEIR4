@@ -1,49 +1,61 @@
-<!-- Capa -->
-<p align="center">
-  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/minha-capa.jpg?raw=true) alt="Vieira logo dourado" width="100%" height="350" />
-</p>
+# Olá, eu sou Joy Vieira 👋
 
-### 👩‍💻 Sobre mim
+Desenvolvedora em formação com foco em desenvolvimento de software e construção de APIs.
 
-Sou uma Desenvolvedora em transição de carreira, apaixonada por tecnologia, design e soluções criativas.  
-Tenho formação na área da saúde, e hoje mergulho de cabeça no mundo da programação com foco no Front-End, estudando de forma estruturada e prática.
+Atualmente participo de uma **Residência Tecnológica em Desenvolvimento Back-End**, onde desenvolvo projetos práticos utilizando **Python, Flask e banco de dados MySQL**.
 
-Atualmente curso *Análise e Desenvolvimento de Sistemas* e participo de programas como o *Desenvolve Boticário*, unindo prática, teoria e evolução contínua.
+Busco evoluir constantemente através da prática, construção de projetos e resolução de problemas reais.
 
 ---
 
-### 🎯 Objetivo
+##  Tecnologias e Ferramentas
 
-Atuar como desenvolvedora com propósito e clareza, sempre buscando aplicar meus conhecimentos em projetos reais, colaborando com pessoas que compartilham visão de crescimento, autonomia e impacto positivo através da tecnologia.
-
----
-
-### 🚀 Tecnologias e Aprendizados
-
-- 🌐 HTML, CSS, JavaScript, React, Java.
-- 📁 Git e GitHub  
-- 🎨 UI/UX (iniciante com sensibilidade estética e prática)  
-- 📚 Lógica de Programação (VisuAlg com curso em video)  
-
-<p aling="center">
-  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/html.svg?raw=true) alt="icone HTML" width="50" />
-  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/css.svg?raw=true) alt="icone CSS" width="50" />
-  <img src="https://github.com/JOYVIEIR4/JOYVIEIR4/blob/main/git/js.svg?raw=tue) alt="icone JS" width="50" />
-</p>  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 💡 Projetos em destaque
+## 🧠 Experiência prática
 
-| Projeto | Descrição |
-|--------|-----------|
-| *Portfolio Joy Vieira* | Página pessoal responsiva com HTML, CSS e JS apresentando minha trajetória |
+**Residência Tecnológica em Desenvolvimento Back-End**
+
+Durante a residência desenvolvo aplicações e APIs com foco em:
+
+• Desenvolvimento de APIs REST  
+• Integração com banco de dados MySQL  
+• Implementação de operações CRUD  
+• Estruturação de aplicações utilizando Flask  
+• Boas práticas de programação  
 
 ---
 
-<p>
-  <a> Em constante evolução. Cada linha de código carrega minha determinação.</a>
-</p>
+##  Projetos em destaque
+
+🔹 API REST com Flask  
+🔹 Sistema CRUD com banco de dados  
+🔹 Aplicações Web com HTML, CSS e JavaScript  
+
+*(Projetos em constante evolução )*
+
+---
+
+##  Estatísticas do GitHub
+
+![Joy GitHub stats](https://github-readme-stats.vercel.app/api?username=JOYVIEIRA4&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOYVIEIRA4&layout=compact&theme=tokyonight)
+
+---
+
+## 🌎 Conecte-se comigo
+
+💼 LinkedIn  
+📧 Email  
+
 
 ---
 
