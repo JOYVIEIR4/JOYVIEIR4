@@ -45,16 +45,16 @@ Durante a residência desenvolvo aplicações e APIs com foco em:
 
 ##  Estatísticas do GitHub
 
-![Joy GitHub stats](https://github-readme-stats.vercel.app/api?username=joyvieira4&show_icons=true&theme=tokyonight)
+![Joy GitHub stats](https://github-readme-stats.vercel.app/api?username=joyvieir4&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyvieira4&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyvieir4&layout=compact&theme=tokyonight)
 
 
 ---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joicevieir/">🔗 LinkedIn</a> • 
-  <a href="https://github.com/JOVIEIR4">💻 GitHub</a> • 
+  <a href="https://github.com/JOYVIEIR4">💻 GitHub</a> • 
   <a href="joicevieirab@hotmail.com">📩 E-mail</a>
 </p>
 
