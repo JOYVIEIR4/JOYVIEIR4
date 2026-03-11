@@ -45,16 +45,9 @@ Durante a residência desenvolvo aplicações e APIs com foco em:
 
 ##  Estatísticas do GitHub
 
-![Joy GitHub stats](https://github-readme-stats.vercel.app/api?username=JOYVIEIRA4&show_icons=true&theme=tokyonight)
+![Joy GitHub stats](https://github-readme-stats.vercel.app/api?username=joyvieira4&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOYVIEIRA4&layout=compact&theme=tokyonight)
-
----
-
-## 🌎 Conecte-se comigo
-
-💼 LinkedIn  
-📧 Email  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyvieira4&layout=compact&theme=tokyonight)
 
 
 ---
