@@ -1,4 +1,4 @@
-# Olá, eu sou Joy Vieira 
+# Olá, eu sou Joice Vieira 
 
 Desenvolvedora em formação com foco em desenvolvimento de software e construção de APIs.
 
